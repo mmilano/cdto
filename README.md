@@ -1,5 +1,5 @@
 ## cd to... [![Latest Release](https://img.shields.io/github/release/jbtule/cdto.svg)](https://github.com/jbtule/cdto/releases/latest)
-<img src="https://raw.github.com/jbtule/cdto/master/graphics/lion.png" height="128px" width="128px" />
+<img src="https://raw.github.com/mmilano/cdto/master/iconExports/icon_128x128%402x.png" />
 
 Finder Toolbar app to open the current directory in the Terminal.
 
@@ -11,10 +11,11 @@ https://github.com/jbtule/cdto
 
 ### Usage:
 
-Download [Latest cdto.zip](https://github.com/jbtule/cdto/releases/latest)
+Clone the project and build it for yourself locally.
 
-
-To install "cd to ....app" copy to your Applications folder, and then from the applications folder ⌘ drag it into the Finder toolbar or drag from another finder window to toolbar being customized.
+#### Once Built...
+To install "cd to.app" copy to your Applications folder,
+and then from the applications folder ⌘ drag it into the Finder toolbar or drag from another finder window to toolbar being customized.
 
 To use, just click on the new button and instantly opens a new terminal window.
 
@@ -38,6 +39,12 @@ defaults write name.tuley.jay.cd-to cdto-new-window-setting -string "Red Sands"
 
 
 ### Changes:
+Version 3.1.1
+* changed the icon/graphics to be more minimal. sketch source file is included.
+* updated xcode project to be signed locally
+* updated xcode project setting to work with xcode v13
+* cleaned out some older graphics
+
 
 Version 3.1
  * Restored name to "cd to.app"
@@ -89,7 +96,7 @@ Version 2.0 (2005)
  * Ported to objective-c using appscript, boosting launch & execution speed
  * properly resolves aliases
  * no longer shows icon in dock on launch
- 
+
 Version 1.0 (2003)
   * targeted Panther OS X 10.3
   * was applescript
