@@ -1,4 +1,4 @@
-## cd to... [![Latest Release](https://img.shields.io/github/release/jbtule/cdto.svg)](https://github.com/jbtule/cdto/releases/latest)
+## cd to... [![Latest Release](https://img.shields.io/github/release/mmilano/cdto.svg)](https://github.com/mmilano/cdto/releases/latest)
 <img src="https://raw.github.com/mmilano/cdto/master/iconExports/icon_128x128%402x.png" />
 
 Finder Toolbar app to open the current directory in the Terminal.
