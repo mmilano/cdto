@@ -7,7 +7,7 @@
 	<key>CFBundleExecutable</key>
 	<string>$(EXECUTABLE_NAME)</string>
 	<key>CFBundleIconFile</key>
-	<string>AppIcon.icns</string>
+	<string>cdto.icns</string>
 	<key>CFBundleIdentifier</key>
 	<string>$(PRODUCT_BUNDLE_IDENTIFIER)</string>
 	<key>CFBundleInfoDictionaryVersion</key>
@@ -27,7 +27,7 @@
 	<key>LSUIElement</key>
 	<true/>
 	<key>NSAppleEventsUsageDescription</key>
-	<string>Queries Finder and opens Terminal to it's location</string>
+	<string>Queries Finder and opens Terminal to current location</string>
 	<key>NSHumanReadableCopyright</key>
 	<string>Copyright © 2019 Jay Tuley. All rights reserved.</string>
 	<key>NSSupportsAutomaticTermination</key>
